@@ -1,0 +1,2 @@
+# JavaDummy
+our learning purpose
